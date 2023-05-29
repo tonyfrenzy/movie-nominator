@@ -48,10 +48,6 @@
               </div>
             </div>
           </div>
-          <!-- <div class="list-group-item d-flex justify-content-between align-items-center">
-              Dapibus ac facilisis in
-              <button class="btn btn-primary btn-sm">Nominate</button>
-            </div> -->
         </section>
       </div>
 
