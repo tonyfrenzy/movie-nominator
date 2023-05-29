@@ -1,8 +1,17 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
-import TheWelcome from './components/TheWelcome.vue'
+import HeaderDiv from './components/HeaderDiv.vue'
+import NominateDiv from './components/NominateDiv.vue'
+import FooterDiv from './components/FooterDiv.vue'
 </script>
 
-<template></template>
+<template>
+  <div>
+    <HeaderDiv />
+
+    <NominateDiv />
+
+    <FooterDiv />
+  </div>
+</template>
 
 <style></style>
